@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "49c05d826be619e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b1555169e137fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3549cddb53b7bf82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff02562569cc6a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插件开发/学习/2. 插件打包与安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "981d5d563fe03431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "插件开发/学习/2. 插件打包与安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe42cc7209cd4093",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ff11e46842c23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75eb7a0b5fdfb782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85fe0ce500d127fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73c9ca1c0198a8af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32a332b6aa67e40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf1a7dc635f90e8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23f1e62189481a0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "插件开发/学习/2. 插件打包与安装.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "551739c8d74919d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "插件开发/学习/2. 插件打包与安装.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b8178256b23ffad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fc5cc2fe3e03336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "插件开发/学习/2. 插件打包与安装.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ff02562569cc6a69",
+  "lastOpenFiles": [
+    "插件开发/学习/1. 第一个插件.md",
+    "插件开发/学习/img/2.png",
+    "插件开发/学习/img/2.png",
+    "插件开发/学习/2. 插件打包与安装.md",
+    "插件开发/Blender 插件开发.md",
+    "插件开发/学习/img/3.png",
+    "插件开发/学习/img/1.png",
+    "插件开发/学习/img",
+    "插件开发/img/5.png",
+    "插件开发/img/4.png",
+    "插件开发/img/3.png",
+    "插件开发/img/2.png",
+    "插件开发/img/1.png",
+    "插件开发/img",
+    "1.png",
+    "插件开发/学习",
+    "插件开发"
+  ]
+}
